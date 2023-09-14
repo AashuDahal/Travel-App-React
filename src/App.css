@@ -1,0 +1,52 @@
+*{
+  margin:0;
+  padding:0;
+
+}
+.nav{
+  /* background-color:red; */
+  text-align: center;
+  padding-top:10px;
+  padding-bottom:10px;
+  color:rgb(0, 0, 0);
+  font-weight: 10px;
+  cursor:default;
+  font-family:'Dancing Script';
+  /* font-family:'Homemade Apple'; */
+  font-size: 40px;
+}
+
+.container{
+  /* background-color:blue; */
+  height:100vh;
+}
+
+.journal--post{
+  /* background-color: rgb(108, 14, 14); */
+  height:100%;
+  display:flex;
+  justify-content:space-between;
+}
+
+p{
+  padding:10px;
+  font-family:'Electrolize';
+  font-size:20px;
+}
+
+.text{
+  margin-left:150px;
+  margin-top:5%;
+  font-family:'Homemade Apple';
+  /* font-family:'Dancing Script'; */
+  font-size:50px;
+}
+
+img{
+    height:70vh;
+    width:auto;
+    margin-top:70px;
+    margin-right:25px;
+    border-radius:10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
